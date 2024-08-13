@@ -6,7 +6,7 @@ import "./globals.css";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SAAS",
+  title: "Fuzzie",
   description: "Crafted with love ❤️",
 };
 
